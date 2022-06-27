@@ -7,6 +7,7 @@ CS 스터디를 하면서 각 주제별 공부 내용 기록
 - 질문 리스트는 각자 한 주제 당 3가지 질문을 만들어와 서로 공유하고 합쳐진 질문 중 랜덤하게 3개 뽑아 답하기
 - 스터디 후 READ.ME에 주제별 질문과 답변 작성
 - CS 주제 선택은 한재엽님 깃허브 사용 (https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- 스터디 질문 공유는 회의 전날까지
 
 # Commit Rule
 - 공부한 주제 제목 첫글자를 대문자로 작성
