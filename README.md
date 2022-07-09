@@ -17,7 +17,11 @@ CS 스터디를 하면서 각 주제별 공부 내용 기록
 
 <br>
 
-## 각 챕터별
+## 각 챕터별 질문리스트
+- [DataStructure](https://github.com/CatchAlgorithm/CS_Study/blob/main/DataStructure.md)
+- [Network](https://github.com/CatchAlgorithm/CS_Study/blob/main/Network.md)
 
-### DataStructure
+
+<br>
+<br>
   
