@@ -18,6 +18,11 @@
 
     <br>
     
+    - <strong>요청 데이터를 body 에 담아서 보내는 POST가 보안면에서 GET 보다 나은데 그렇다면 요청 빈도가 높은 자료의 조회에는 어떤 HTTP 메서드가 나은지?</strong>  
+      - GET 의 경우 caching 이 가능한데 자주 조회하는 데이터일 경우 caching 을 사용하는것이 DB에 부담을 덜어주기 때문에 성능면에서 유리
+    
+    <br>
+    
     
   - ### TCP와 UDP
     - <strong> tcp 와 udp의 차이에 대해 설명해주세요.</strong>  
